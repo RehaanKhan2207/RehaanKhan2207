@@ -19,8 +19,7 @@ The following is the ecosystem of languages, tools, and cloud platforms I am act
 **DevOps, OS & Version Control**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-**Applied AI & Orchestration**
-
+**Applied AI & Orchestration**  
 ![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![IBM watsonx](https://img.shields.io/badge/IBM%20watsonx-%231261FE.svg?style=for-the-badge&logo=ibm&logoColor=white)
 
 ---
