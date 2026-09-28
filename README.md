@@ -27,7 +27,7 @@ The following is the ecosystem of languages, tools, and cloud platforms I am act
 ![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![IBM watsonx](https://img.shields.io/badge/IBM%20watsonx-%231261FE.svg?style=for-the-badge&logo=ibm&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 **Tools & Environment**  
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white) ![IBM Bob](https://img.shields.io/badge/IBM%20Bob-0530AD?style=for-the-badge&logo=ibm&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![IBM Bob](https://img.shields.io/badge/IBM%20Bob-0530AD?style=for-the-badge&logo=ibm&logoColor=white)
 
 ---
 
